@@ -1,0 +1,15 @@
+Mathematische Grundlagen I
+
+Der Stoff dieses Kurses - dem ersten Semester einer zwei-semestrigen Vorlesung - umfasst Mengenlehre, Ordnungsrelationen, Algebra (Gruppen, Verbände) sowie Aussagen- und Prädikatenlogik erster Stufe. Logik wird den Hauptanteil der Vorlesung ausmachen. Jede der zwei Logiken wird unter vier Aspekten untersucht: formale Syntax, formale (modelltheoretische) Semantik, Beweistheorie und Anwendung auf natürliche Sprachen (Formalisieren, informelle Semantik). Das Ziel des Kurses ist die Vermittlung grundlegender logischer Fertigkeiten wie Formalisierung von natürlichsprachlichen Sätzen, Konstruktion formaler Beweise in einem System des natürlichen Schließens und semantische Bewertung von Formeln (Wahrheitstafelmethode, Wahrheitsbedingungen für prädikatenlogische Formeln errechnen).
+
+
+
+Prüfungsleistungen
+
+Die Prüfungsleistung besteht aus zwei Klausuren, je 45 Minuten; die 1. Klausur  findet in der Mitte des Semesters statt und prüft die 1. Hälfte des Stoffes ab, die 2. Klausur ist voraussichtlich am Mittwoch, 24. Januar 2018, 13-14 Uhr und prüft die 2. Hälfte des Stoffes ab.
+
+Um an einer Klausur teilnehmen zu können, muss man für den Kurs bzw. dessen Prüfungsleistungen angemeldet sein. Die verbindliche Anmeldefrist ist Mittwoch 29. November 2017 - noch vor der 1. Klausur. Alle Coli-Bachelor Studierenden müssen sich über die HISPOS-Datenbank anmelden. Studierende, die sich nicht über HISPOS anmelden können (z.B. M.A. Nebenfächler) müssen sich über unsere alte Prüfungsanmeldedatenbank anmelden. (Hier ist das Web-Anmeldeformular.)
+
+Einziges Hilfsmittel für die Klausuren ist je ein "Spickzettel" (eine DIN A-4 Seite), den man sich selbst oder im Verein mit andern zusammenstellen kann. Die 1. Wiederholung der Klausur wird in Form einer Nachklausur angeboten (90 Minuten, deckt den gesamten Stoff ab). Sie findet voraussichtlich zu Beginn des Sommersemesters 2018 statt. Der Termin wird rechtzeitig bekanntgegeben.
+(Siehe auch unter Klausurrichtlinien.)
+

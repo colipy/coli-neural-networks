@@ -1,0 +1,42 @@
+
+Getting to the Heart of Arrhythmia with GPU-Powered AI
+January 22, 2018 by Tony Kontzer	
+
+Artificial intelligence is quickly evolving into a lifesaver.
+
+Two separate efforts in the commercial and academic arenas have inched us closer to taking a bite out of heart disease — the world’s no. 1 killer. A Stanford University team led by Andrew Ng and a Silicon Valley startup are tapping the power of AI to improve detection of abnormalities and increase the accuracy of diagnoses.
+
+Medical-device maker AliveCor, based in Mountain View, is building deep learning AI algorithms to enable people to monitor their heart rates using built-in sensors on the Apple Watch. They can even alert people to take an immediate EKG using an Apple Watch app and a specially designed band with a built-in sensor.
+
+AliveCor had already made an impact on the EKG front with its KardiaMobile device, which lets users record and analyze EKGs in combination with a smartphone app. Introduced five years ago, the product’s underlying deep learning model, which was trained on a cluster of NVIDIA Tesla GPUs on AWS, creates a heart profile for the user and then compares future EKGs against that baseline.
+
+What’s more, the app automatically detects if someone new is using the device, ensuring the integrity of the main user’s profile.
+Identifying When an EKG Is Needed
+
+KardiaBand app on watchWith its new FDA-approved KardiaBand product, AliveCor has essentially shrunken KardiaMobile, embedded it into an Apple Watch band, and integrated it with the watch’s numerous sensors. But Frank Petterson, vice president of engineering at the company, said the real innovation behind KardiaBand is an AI program it calls SmartRhythm.
+
+SmartRhythm, which was trained on NVIDIA Tesla V100 data center AI accelerators, can correlate heart rate to a user’s current activity as well as other factors. Thus, it can determine, for instance, whether an anomalous reading fits the context or is a sign of trouble.
+
+“We can run a neural network on a user’s Apple Watch every five seconds all day long, classifying all the heart rate and activity data coming in,” said Petterson. “The algorithms are able to deduce whether patterns make sense, and, if not, send an alert to record an EKG.”
+
+Petterson said he couldn’t talk publicly about where AliveCor plans to take its technology next, but he cited a partnership with the Mayo Clinic to use EKGs to read electrolyte levels and potentially prevent some cases of congenital long QT, a disorder that causes seemingly healthy people (such as athletes) to faint or, in the worst cases, drop dead suddenly.
+
+According to Petterson, there’s “more data in an EKG than most people give it credit for.”
+EKG Effort Led by Andrew Ng
+
+Meanwhile, at Stanford University, a team of computer scientists, led by Andrew Ng, an adjunct professor and Baidu’s former chief scientist, is applying AI-infused algorithms to automate the reading and analysis of EKGs. Their goal: accelerate and improve the accuracy of diagnosing arrhythmias, and free up medical staff to focus on more demanding cases or spend more time with patients.
+
+It’s a classic case of using AI to help people get out of their own way.
+
+“In hospitals where EKGs are taken, doctors still read them manually,” said Awni Hannun, a Ph.D. student on Ng’s team.
+
+Hannun and the team worked with iRhythm, a company that makes a wearable heart-monitoring device for detecting abnormal heart activity and has a lot of historical EKG data. The two groups decided to work together to automate the process of arrhythmia detection.
+
+They have since collected a dataset of 60,000 anonymized 30-second EKGs from more than 30,000 patients and refined a 34-layer deep learning model on a cluster of NVIDIA GPUs at the university.
+
+So far, the model, which was detailed in a paper published last year, can distinguish between 14 different arrhythmias, giving cardiologists a clearer picture of what’s happening with a patient’s heart. After an EKG record is run through the model, it’s compared against an expert cardiologist analysis to see which was more accurate.
+
+The model outperformed most of the individual cardiologists. However, so long as any cardiologists are outperforming the model, Hannun said, the team will keep refining their algorithm.
+
+“Accuracy in arrhythmia detection can mean the difference in whether someone gets the right medication,” said Hannun. “Until we’re doing better than the best experts, there’s still performance on the table, and we don’t want to leave performance on the table.”
+

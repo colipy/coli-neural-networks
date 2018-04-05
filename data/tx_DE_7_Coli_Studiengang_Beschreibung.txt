@@ -1,0 +1,9 @@
+Computerlinguistik (Bachelor)
+
+Der Bachelor "Computerlinguistik" ist ein spannender Studiengang an der Schnittstelle von Sprachwissenschaft und Informatik. Die Computerlinguistik erforscht die Verarbeitung menschlicher Sprache. Ihre Modelle geben Antworten auf die Frage, wie Sprache funktioniert, wie Sprache, Denken und Kommunikation zusammenhängen und wie sprachverstehende Systeme auf dem Computer realisiert werden können. Aus der modernen Informationstechnologie ist die Computerlinguistik nicht mehr wegzudenken: Suchmaschinen, maschinelle Übersetzungssysteme oder Sprach-Dialogsysteme sind nur einige ihrer zahlreichen Anwendungsgebiete.
+
+Die Computerlinguistik verwendet Wissen über die Laut-, Satz- und Bedeutungsstruktur sprachlicher Ausdrücke, um Computermodelle für das Verstehen, die Produktion und das Lernen von Sprache zu entwickeln. Dazu benutzt sie Inhalte und Methoden aus Informatik, Sprach- und Kognitionswissenschaft sowie Grundlagen der Mathematik wie beispielsweise formale Logik und Statistik. Studieninteressierte sollten Interesse an lebendiger Sprache und Spaß an Mathematik und der Arbeit mit Computern mitbringen. Spezielle Vorkenntnisse (z.B. Programmierkenntnisse) sind nicht nötig.
+
+Saarbrücken ist einer der weltweit führenden Standorte für Computerlinguistik und Sprachtechnologie, unter anderem auch dank der engen Zusammenarbeit mit der Saarbrücker Informatik, dem Deutschen Forschungszentrum für Künstliche Intelligenz (DFKI) und dem Exzellenzcluster Multi-Modal Computing and Interaction (MMCI).
+
+Absolventen können das Bachelorstudium als Sprungbrett in den Beruf benutzen oder den Masterstudiengang Language Science and Technology an der Saar-Uni oder aber einen inhaltlich verwandten Masterstudiengang anderswo in Deutschland oder weltweit anschließen.
